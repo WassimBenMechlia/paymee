@@ -1,0 +1,59 @@
+{
+    "name": "assets",
+    "children": [
+        
+        {
+            "name": "images",
+            "children": [
+                {
+                    "name": "addphoto.png"
+                },
+                {
+                    "name": "business.png"
+                },
+                {
+                    "name": "centertext.png"
+                },
+                {
+                    "name": "dropboxicon.png"
+                },   
+                {
+                    "name": "havenotification.png"
+                },
+                {
+                    "name": "notificationicon.png"
+                },
+                {
+                    "name": "particulier.png"
+                },
+                {
+                    "name": "paymeeback.png"
+                },
+                {
+                    "name": "paymeeback2.png"
+                },
+               
+                {
+                    "name": "paymeelogo.png"
+                },
+                {
+                    "name": "plogo.png"
+                },
+                {
+                    "name": "profilebackground.png"
+                },
+                {
+                    "name": "scannaer.png"
+                },
+                {
+                    "name": "tn.png"
+                },
+                {
+                    "name": "verified.png"
+                }
+            ]
+        }
+        
+      
+    ]
+}
